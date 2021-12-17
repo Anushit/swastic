@@ -1,0 +1,7185 @@
+
+
+
+     
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 1984</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 1985</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 1987</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 1988</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2048</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2049</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2051</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2052</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2235</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2236</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2238</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2239</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2788</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2788</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2789</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2789</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2789</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2791</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2792</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2794</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2795</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2795</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2797</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2797</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2798</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2798</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2798</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 2798</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4137</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4137</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4138</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4140</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4141</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4143</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4143</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4143</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 4144</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8362</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8362</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8362</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8362</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8362</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8363</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8363</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 8364</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21551</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21553</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21557</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21562</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21567</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21596</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21596</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21597</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21599</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21599</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21600</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21602</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21602</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21602</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 21603</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25058</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25059</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25059</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25059</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25508</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25508</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25509</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25509</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25509</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25514</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25514</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25515</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25515</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25515</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25515</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25517</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25518</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25528</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25528</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25529</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25529</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25529</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25535</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25535</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25536</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25536</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25536</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25536</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25538</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 25539</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 28239</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 28256</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 28275</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 28311</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 28311</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32438</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32438</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32438</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32438</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32439</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32439</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32439</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32440</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32440</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32440</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32440</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32441</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32441</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32441</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32441</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32441</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32442</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32442</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32442</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32442</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32442</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 32443</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/pdf_helper.php<br />
+			Line: 2<br />
+			Function: require_once			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 197<br />
+			Function: helper			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  count(): Parameter must be an array or an object that implements Countable</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 1770</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 1770<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 7591<br />
+			Function: Close			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/views/subadmin/subadmin_pdf.php<br />
+			Line: 50<br />
+			Function: Output			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 199<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  The each() function is deprecated. This message will be suppressed on further calls</p>
+<p>Filename: mpdf/mpdf.php</p>
+<p>Line Number: 9143</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 9143<br />
+			Function: each			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 27927<br />
+			Function: _putimages			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 9508<br />
+			Function: _putresources			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 1797<br />
+			Function: _enddoc			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/helpers/mpdf/mpdf.php<br />
+			Line: 7591<br />
+			Function: Close			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/views/subadmin/subadmin_pdf.php<br />
+			Line: 50<br />
+			Function: Output			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/application/controllers/Subadmin.php<br />
+			Line: 199<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /opt/lampp/htdocs/demo-2/admin/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>%PDF-1.4
+%‚„œ”
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280 841.890]
+/TrimBox [0.000 0.000 595.280 841.890]
+/Resources 2 0 R
+/Group << /Type /Group /S /Transparency /CS /DeviceRGB >> 
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Filter /FlateDecode /Length 844>>
+stream
+H ∏˛˚â„∑ùπ©~j¡m¢˚ˆr5æﬂ˜vwx˚!à!G`÷°b”WƒGÅk¢õN°*˛œ§÷K∂ÁFŸ#÷ãÉ…HRÂÚSp<˝Y∑∫ÚwÿâﬂÍQò°¸iw*“ØaíX‹ﬂC˝¿=>I¬ó(„aVå`9∑S¯∑G»ÑÒ∑ƒyΩ/-…R+ı}x>^ÚÀ˜©;ùPl·5s™é/Ö0çúﬁø3r°M7øiStw/˘ú3k1~ﬂL~fmã≤
+ıê…⁄]s\e˝πDä•Ï4™¶,}KDT  ëõßÿÂØq”“—è*=ùP‹èùˆKµYw¶Âo®áÒ0Âs/«Å;ÁqÜpN¿Äi-œﬂNdÁâyr)∫ΩÅ˙÷Û(ë’8¨’t;'∫<ïRUóûì´5≤¶ªUüIduD ≠C≈ ‹v®µﬁÜßÜUñﬂπ"|Çj!≥+R›€⁄{âRM¶—ˇì‚)Wv[^ç,‘¶|#àÿ€€û˚BÀá1»-û+É‘‡d˚u^Õ‰¯Gêv≈≈5:ƒêÌKÏƒ>SàŒx+πSØÄ¨¢èŸπ¢≤©EcY‹Äµ]Â¯˙6$•4ÚUﬂlòƒÜ~Êg$‰Õ#∆KôöVuB‘⁄R®˚ã∆OÓÙ(W”∏ë'úÚ	uîÍ>⁄ô"¥®£gP‘ƒcáb#˘wûˇ’¨ôë¸#ÌVÏ◊Ù¶C´¯ŒÓí/W„Âﬁ∂|7£SÛ·õ$õg`d∆t±º&´Kì 	∆%∆Ôï˝á=™˙`—»j¥vÿ√Ì I±›Øyp.∂ø>´åá√QÁ≥·è‚ú
+Ñ˘w3È,uô«ÿ∞Àm:.A≤Œ
+È*√5ƒl%Ï7=õ{¸PœV£Ä
+ Ôù^ŸG€πÚ!|Ñ2´†¢ÒÛˆ∆ΩaM?R
+
+`©üM˘k‡iF≈˝1o$ b≈ÉÊ’ı¡H€càëÒ∫’iÀtÀq<Ò\&\Â{a,ìÛµ„&J‹,hÛﬂœÎXıÊ0Õ2Ò∆RPAàœc∂û‰ìcû3ΩÁavcº¥Ëˇ#Ö°z5±WèÄhãYˆ¿îÅ7Fd6ßÛ8<‡ÂóH=œ A#æu¶fH:ˇ>ı
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.280 841.890]
+>>
+endobj
+5 0 obj
+<</Type /ExtGState
+/BM /Normal
+/ca 1
+/CA 1
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<</Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+>>
+/ExtGState <<
+/GS1 5 0 R
+>>
+>>
+endobj
+8 0 obj
+<<
+/Filter /Standard
+/V 1
+/R 2
+/O (eOøh-˝]û9`gÃæ
+ÄõÜKà8>A])
+/U (Ö'˝yó¸°|3>"¶'!\\:´Îf…AÅ0Ÿ ‡˘˜Ì‘)
+/P 4294963396
+>>
+endobj
+9 0 obj
+<<
+/Producer (ï‹Yê$§Îƒ…G◊õ=?˛?Fwûπˇ)
+/Title (ï‹Yº§¬ƒÊGôõ\(?˝?Qw„πæ-z Toe@È§ælÓìN±Bf1?®)
+/Author (ï‹Yº-§˚)
+/CreationDate (YkÃOBñùıæu¿Ø>‡
+VDÄû)
+/ModDate (YkÃOBñùıæu¿Ø>‡
+VDÄû)
+>>
+endobj
+10 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /Fit]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000001137 00000 n 
+0000001482 00000 n 
+0000000015 00000 n 
+0000000223 00000 n 
+0000001226 00000 n 
+0000001287 00000 n 
+0000001385 00000 n 
+0000001608 00000 n 
+0000001748 00000 n 
+0000001949 00000 n 
+trailer
+<<
+/Size 11
+/Root 10 0 R
+/Info 9 0 R
+/Encrypt 8 0 R
+/ID [<810cd91c3e16bf335b398412895ee762> <810cd91c3e16bf335b398412895ee762>]
+>>
+startxref
+2047
+%%EOF
